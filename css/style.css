@@ -1,0 +1,36 @@
+.box0{
+	min-height:450px;
+	position: relative;
+	background-color: black;
+}
+.box1,.box2,.box3,.box4,.box5{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+}
+.box1{
+
+	background-color: red;
+}
+.box2{
+	background-color: green;
+	top:0;
+	right:0;
+}
+.box3{
+	background-color: blue;
+	bottom:0;
+	left:0;
+}
+.box4{
+	background-color: yellow;
+	bottom:0;
+	right:0; 
+}
+.box5{
+	background-color: orange;
+	left: 0;
+	right:0;
+	margin:150px auto;
+
+}
